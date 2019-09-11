@@ -93,3 +93,5 @@ const origin = '0xa4d2050f24ed7EfF313B7E912D6e5BF96ce57B95'
 let id = '0x' + cry.blake2b256(signingHash, Buffer.from(origin.slice(2), 'hex')).toString('hex')
 ```
 We now can print out the TXID and compare it with the one published on the veforge explorer.
+
+
