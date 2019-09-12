@@ -1,5 +1,7 @@
 # What you might not know about VeChainThor yet (Part I) - Transaction Uniqueness
 
+>originally published at [Medium](https://medium.com/vechain-foundation/what-you-might-not-know-about-vechainthor-yet-part-i-transaction-uniqueness-7a90146f2ace)
+
 It has been almost one year since the launch of the VeChainThor blockchain last June. As a co-author of its [whitepaper](https://cdn.vechain.com/vechainthor_development_plan_and_whitepaper_en_v1.0.pdf), I am still feeling that some of its important features, designed for mass adoption of blockchain technology, have been largely out of public sight, despite the fact that they have been extensively used in many applications running on VeChainThor. 
 
 This is the first article of the series "What you might not know about VeChainThor yet" in which I will talk in details about those useful but less mentioned features of VeChainThor. By the way, if you have not known the [Multi-party Payment Protocol (MPP)](https://doc.vechainworld.io/docs/multi-party-payment-protocol-mpp) or [Multi-Task Transaction (MTT)](https://doc.vechainworld.io/docs/transaction-model), two of the most powerful features of VeChainThor, I strongly recommend you to read the relevant documents.
